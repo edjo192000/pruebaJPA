@@ -1,0 +1,22 @@
+# Maven
+target/
+*.class
+*.jar
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+*.launch
+# IntelliJ
+*/.idea/
+.idea/
+*.iml
+*.orig
+.bin
+# General
+*~
+*.swp
+*.lock*
+*.DS_Store
+/target/
